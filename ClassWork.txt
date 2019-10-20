@@ -1,0 +1,40 @@
+Numpy1:
+
+data type is written as dtype= 'int32' where 32 is the bit size or direct by np.int8.
+random array, randint, randn
+Array is studied in vectorized form which is in dimensional form, dimension has a part that is axes
+On this axis when a plane is drawn and a line traverse through it.
+Array is 1D vector.
+The elemnts in vector are defined by 'shape'
+1D is in the form (3,) if array is ([1,2,3])
+array... is called vector
+matrix... is called tensor
+Matrix is multidimensional array.
+np.array([[],[]]), each [] is row
+np.array([[1,2,3],[4,5,6],[7,8,9],[3,4,5]]), each number in row is column like [1,2,3]
+zeroD is scalar which has zero dim.
+a = np.arange(12).reshape(4,3), reshape is to make diemsion of your choice of vector like for 12 it can be 4,3 3,4 6,2 ,2,6 etc
+mirror operation: multipliactiona add, sub, division
+
+
+Numpy2:
+
+practice numpy chap page book hw, 
+Binary Universal fuctions, 
+mean, sum, axis wise mean, 
+cummulative series, 
+standard deviation(how far original value is from mean), 
+bool(any)
+set(give set of disctinct objects which remove similar values)
+cover linear algebra whole
+
+Pandas1:
+data series
+data frame
+
+Pandas2:
+
+CSV-Work:
+csv data handling
+csv is excel file
+
